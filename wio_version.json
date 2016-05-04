@@ -1,5 +1,6 @@
 {
-  "ios": "1.0.3",
+  "ios":"1.0.3",
+  "iosMsg": "Please update your APP to continue using the updated service smoothly.",
   "android": {
     "verName": "2.1.3",
     "verCode": 13
