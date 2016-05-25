@@ -1,6 +1,6 @@
 {
-  "ios":"1.0.4",
-  "iosMsg": "Please update your APP to continue using the updated service smoothly.",
+  "ios":"1.4.3",
+  "iosMsg": "Hi dear users! There is a critical bug in version. Please do not logout the account, otherwise you may not login again. We will fix it ASPS.Thank you for your support.",
   "android": {
     "verName": "2.2.2",
     "verCode": 17
